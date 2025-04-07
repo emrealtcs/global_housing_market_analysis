@@ -1,0 +1,9 @@
+pandas
+psycopg2
+sqlalchemy
+fbprophet
+autots
+xgboost
+matplotlib
+seaborn
+category_encoders
