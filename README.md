@@ -3,7 +3,7 @@
 Predicting country-level housing price trends using feature-engineered time series data, clustering, and XGBoost regression.
 
 *NOTE:* Jupyter setup is excluded (my_env files, imports, modules, scripts, etc) due to large file size
-This project explores global housing price trends using machine learning. 
+\This project explores global housing price trends using machine learning. 
 
 - Built a time-aware regression pipeline with XGBoost
 - Engineered temporal and country-specific features
